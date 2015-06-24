@@ -1,0 +1,19 @@
+.lista_agregar:hover {
+	cursor: pointer;
+}
+
+.table_personas {
+	margin-bottom: 0px;
+}
+
+.accordion-toggle {
+	padding: 8px 0px;
+}
+
+.accordion-heading .accordion-toggle {
+	padding: 0px;
+}
+
+.accordion-inner {
+	padding: 0px;
+}
