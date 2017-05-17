@@ -1,6 +1,6 @@
 <?php
     session_start();
-
+#Commenting this projects!!
     include 'conexion.php';
 
     if (isset($_SESSION['error_bd']) && ($_SESSION['error_bd'] == true)) {
